@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESCUELA/PRUEBAS/CASOS DE PRUEBA.md",
+                "file": "ESCUELA/Diseño de interfaces/ACCESIBILIDAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CASOS DE PRUEBA"
+              "title": "ACCESIBILIDAD"
             }
           }
         ],
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESCUELA/PRUEBAS/CASOS DE PRUEBA.md",
+                "file": "ESCUELA/Diseño de interfaces/ACCESIBILIDAD.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de CASOS DE PRUEBA"
+              "title": "Esquema de ACCESIBILIDAD"
             }
           },
           {
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,6 +231,11 @@
   },
   "active": "8174c98371137643",
   "lastOpenFiles": [
+    "ESCUELA/Diseño de interfaces/Primer dia..md",
+    "ESCUELA/Diseño de interfaces/ACCESIBILIDAD.md",
+    "ESCUELA/Diseño de interfaces/Profesor.md",
+    "ESCUELA/Diseño de interfaces/Sin título.canvas",
+    "ESCUELA/PRUEBAS/CASOS DE PRUEBA.md",
     "ESCUELA/PRUEBAS/Principios de prueba de software..md",
     "ESCUELA/PRUEBAS/Conceptos.md",
     "ESCUELA/PRUEBAS/ANOMALIAS.md",
@@ -239,7 +245,6 @@
     "Sin título.base",
     "Sin título.md",
     "Sin título 1.base",
-    "ESCUELA/PRUEBAS/CASOS DE PRUEBA.md",
     "ESCUELA/PRUEBAS/Tareas/Consideraciones éticas en la prueba de softwar.md",
     "ESCUELA/Diseño de Software/ARQUITECTURA.md",
     "IMAGENES Y PTRPS/image-2.png",
@@ -252,15 +257,11 @@
     "ESCUELA/Diseño de Software/FALLA.md",
     "ESCUELA/Diseño de Software/Random.md",
     "ESCUELA/Diseño de Software/Sin título.md",
-    "ESCUELA/Diseño de interfaces/Primer dia..md",
     "ESCUELA/Tecnologias/Tarea/TABLA INTERNALIZACION.md",
-    "ESCUELA/Diseño de interfaces/Sin título.canvas",
-    "ESCUELA/Diseño de interfaces/Profesor.md",
     "ESCUELA/Tecnologias/Tarea/TAREA 1.md",
     "ESCUELA/Tecnologias/Internacionalizacion.md",
     "BONOS.md",
     "ESCUELA/Tecnologias/Tarea",
-    "ESCUELA/IA/Busquedas.md",
     "ESCUELA/Tecnologias",
     "Sin nombre 1",
     "IMAGENES Y PTRPS/image-1.png",
