@@ -1,0 +1,1 @@
+*SSL* Protocolo de cifrado que establece una conexión segura entre una web y un equipo
