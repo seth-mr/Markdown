@@ -1,0 +1,4 @@
+- Es importante analizar bien el problema
+- En el caso de estos triángulos tuvimos que hacer 25 pruebas
+- Hay que comprender cómo se implementó para probar
+- No es probar por probar, es hacer casos eficientes
