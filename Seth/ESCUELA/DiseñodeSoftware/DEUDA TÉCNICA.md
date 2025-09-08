@@ -1,5 +1,5 @@
 
-*Elementos*(decisiones) de *[[Seth/ESCUELA/Diseño de Software/Diseño]] o implementacion* que son *convenientes* en el *corto plazo*pero que crean un contexto  técnico que puede hacer que un *cambio* en el *futuro* sea *mas costoso o imposible.*
+*Elementos*(decisiones) de *[[Seth/ESCUELA/DiseñodeSoftware/Diseño]] o implementacion* que son *convenientes* en el *corto plazo*pero que crean un contexto  técnico que puede hacer que un *cambio* en el *futuro* sea *mas costoso o imposible.*
 
 Limita las cualidades internas: manteniente y la facilidad de evolución 
 

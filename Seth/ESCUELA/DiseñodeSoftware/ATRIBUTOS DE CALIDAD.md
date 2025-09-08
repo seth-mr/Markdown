@@ -28,7 +28,7 @@
 	Desviación del sistema respecto a su especificación, que es visible externamente es el resultado final de un error en el sistema. 
 
 *DEFECTO* ->
-	La causa de una [[FALLA]]. Puede ser un defecto en el codigo, [[Seth/ESCUELA/Diseño de Software/Diseño]], o en el proceso.
+	La causa de una [[FALLA]]. Puede ser un defecto en el codigo, [[Seth/ESCUELA/DiseñodeSoftware/Diseño]], o en el proceso.
 
 *ERROR* ->
 	Accion incorrecta realizada por un desarrollador o usuario que introduce un defecto en el sistema.
@@ -84,7 +84,7 @@ Los *SLA* suelen especificar los requisitos de disponibilidad, incluyendo valore
 *ESPECIFICACION* -> 
 - Definir claramente cada atributo como criterio medible.
 *PRIORIZACION* -> 
-- Determinar la importancia relativa de cada atributo para guiar el [[Seth/ESCUELA/Diseño de Software/Diseño]] arquitectonico
+- Determinar la importancia relativa de cada atributo para guiar el [[Seth/ESCUELA/DiseñodeSoftware/Diseño]] arquitectonico
 *VALIDACION* -> 
 - Verificar que el sistema cumple con los atributos de calidad definidos
 
@@ -103,7 +103,7 @@ los que describen una *propiedad del desarrollo*
 
 Son los factores que mas fuertemente **modifican la arquitectura**
 
-Las decisiones durante el [[Seth/ESCUELA/Diseño de Software/Diseño]] arquitectonico **determinan** en gran parte si el sistema  **cumplira** o no con los requisitos de **calidad.**
+Las decisiones durante el [[Seth/ESCUELA/DiseñodeSoftware/Diseño]] arquitectonico **determinan** en gran parte si el sistema  **cumplira** o no con los requisitos de **calidad.**
 
 La arquitectura es el ***primer punto en el desarrollo donde se pueden abprdar los requisitos de calidad***
 
@@ -115,7 +115,7 @@ La arquitectura es el ***primer punto en el desarrollo donde se pueden abprdar l
 - Son cualidades de los requisitos funcionales o del producto general.
 
 *Restricciones :* -> 
-- Es una decision de [[Seth/ESCUELA/Diseño de Software/Diseño]] con cero grados de libertad. Es decir, una que ya ah sido tomada
+- Es una decision de [[Seth/ESCUELA/DiseñodeSoftware/Diseño]] con cero grados de libertad. Es decir, una que ya ah sido tomada
 
 
 # USABILIDAD
@@ -164,18 +164,18 @@ La arquitectura es el ***primer punto en el desarrollo donde se pueden abprdar l
 
 ## RELACIÓN  USABILIDAD Y MODIFICABILIDAD
 
-**Iteracion en el [[Seth/ESCUELA/Diseño de Software/Diseño]] de interfaz.** 
+**Iteracion en el [[Seth/ESCUELA/DiseñodeSoftware/Diseño]] de interfaz.** 
 
-- El [[Seth/ESCUELA/Diseño de Software/Diseño]] de la *interfaz de usuario es un proceso iterativo* que requiere ajustes y mejoras constantes.
-- Es improbable que se obtenga un [[Seth/ESCUELA/Diseño de Software/Diseño]] perfecto en el primer intento.
+- El [[Seth/ESCUELA/DiseñodeSoftware/Diseño]] de la *interfaz de usuario es un proceso iterativo* que requiere ajustes y mejoras constantes.
+- Es improbable que se obtenga un [[Seth/ESCUELA/DiseñodeSoftware/Diseño]] perfecto en el primer intento.
 
 La capacidad de mejorar el sistema facilmente facilita la mejora continua de usabilidad.
 
 
 ## PATRONES DE USABILIDAD
 
-- Se han desarrollado para *Apoyar el [[Seth/ESCUELA/Diseño de Software/Diseño]] de UI*, enfocándose en la facilidad de modificación para mejorar la usabilidad.
-- Promueven la *Separacion de responsabilidades* para facilitar la interacción del [[Seth/ESCUELA/Diseño de Software/Diseño]] de interfaces de usuario 
+- Se han desarrollado para *Apoyar el [[Seth/ESCUELA/DiseñodeSoftware/Diseño]] de UI*, enfocándose en la facilidad de modificación para mejorar la usabilidad.
+- Promueven la *Separacion de responsabilidades* para facilitar la interacción del [[Seth/ESCUELA/DiseñodeSoftware/Diseño]] de interfaces de usuario 
 - *Modificar* el sistema *repetidamente*, basándose en el aprendizaje del comportamiento y las necesidades del usuario, es *clave* lograr *alta usabilidad*
 
 ### MVC
