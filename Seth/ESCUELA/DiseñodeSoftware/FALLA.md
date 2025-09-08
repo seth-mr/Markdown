@@ -22,7 +22,7 @@
 
 ### Medicion de la disponibilidad
 
-[[Seth/ESCUELA/DiseñodeSoftware/ATRIBUTOS DE CALIDAD]]
+
 
 *FORMULA PARA CALCULAR LA DISPONIBILIDAD*
 Esta formula es fudnamental para cuantificar la disponibilidad y planear estrategias de mantenimiento y recuperacion 
