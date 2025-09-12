@@ -4,4 +4,4 @@ Solo son diseñados para cumplir ciertas funciones
 
 **Usabilidad:** El grado en que un producto puede ser utilizado por usuarios específicos para alcanzar objetivos específicos con eficacia, eficiencia y satisfacción en un contexto de uso específico. ISO 9241-11
 
-	A través de la identificación de las debilidades y fortalezas específicas de diferentes sistemas interactivos, podemos comenzar a comprender lo que significa algo que se pueda usar o no.
+A través de la identificación de las debilidades y fortalezas específicas de diferentes sistemas interactivos, podemos comenzar a comprender lo que significa algo que se pueda usar o no.

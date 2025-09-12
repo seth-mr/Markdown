@@ -31,4 +31,4 @@ PARA CADA Vecino EN Vecinos(Nodo) HACER
 	FIN_SI
 FIN_PARA
 ```
-- **Verificación:** 
+- **Verificación:**
