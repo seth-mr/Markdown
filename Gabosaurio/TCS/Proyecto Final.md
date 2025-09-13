@@ -49,3 +49,14 @@
 - Iniciar juego
 - Personalización de reglas / look and feel
 	- Cada casilla de tesoro tiene una animación personalizada
+
+# Usuarios de SQL Server
+## Usuario Sysadmin
+SA
+SQLs2411
+## Usuario Login
+gaboserver
+Sqls2411
+## Usuario de la base de datos
+gaboisland
+Forbbiden2411
