@@ -1,4 +1,4 @@
-q- **Definición:** Proceso de hacer que un software esté disponible para su uso
+-  **Definición:** Proceso de hacer que un software esté disponible para su uso
 	- Asegura que el software funcione correctamente en el entorno de producción
 	- Permite la entrega de nuevas características y correcciones
 	- Minimiza el tiempo de inactividad y los errores

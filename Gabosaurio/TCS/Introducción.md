@@ -33,13 +33,6 @@ Dream Team (Equipo 7)
 - Leo
 - Yolando (Gabo)
 
-### Pruebas
-Convención
-
-public void TestLoginSuccessful()
-public void TestLoginEmptyCredentials()
-public void TestLoginNoDatabaseConnection()
-
 Tecnologías usadas
 - https://pixel-me.tokyo/en/
 - https://www.canva.com/es_mx/aprende/psicologia-del-color/

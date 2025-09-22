@@ -9,7 +9,7 @@
 
 | Elemento                     | Responsabilidad                                                                              | Propiedades           |
 | ---------------------------- | -------------------------------------------------------------------------------------------- | --------------------- |
-| NetworkDeiceConnector        | Comunicarse con dispositivos de red y asilar el resto del sistema de un protocolo específico |                       |
+| NetworkDeviceConnector       | Comunicarse con dispositivos de red y asilar el resto del sistema de un protocolo específico |                       |
 | NetworkDeviceEventController | Procesar eventos que se reciben de los dispositivos de red                                   |                       |
 | Topology Controller          | Proporciona acceso a la información de la topología de la red y sus cambios                  | Tipo=stateless        |
 | RegionDataMatter             | Gestiona la persistencia de las regiones                                                     | Framework = Hibernate |

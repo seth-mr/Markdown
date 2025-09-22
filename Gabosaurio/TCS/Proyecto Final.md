@@ -8,7 +8,7 @@
 	- Uso de framework de comunicación en red
 		- WCF (Windows Communication Framework)
 	- Uso de framework de UI
-			- WPF, Avalonia
+		- WPF, Avalonia
 	- Prácticas seguras de escritura de código
 		-  Proyecto inseguro no se recibe
 		- Todo código que se escriba debe ser seguro y probado
@@ -49,6 +49,10 @@
 - Iniciar juego
 - Personalización de reglas / look and feel
 	- Cada casilla de tesoro tiene una animación personalizada
+## Convención de Pruebas
+public void TestLoginSuccessful()
+public void TestLoginEmptyCredentials()
+public void TestLoginNoDatabaseConnection()
 
 # Usuarios de SQL Server
 ## Usuario Sysadmin
@@ -57,6 +61,10 @@ SQLs2411
 ## Usuario Login
 gaboserver
 Sqls2411
-## Usuario de la base de datos
-gaboisland
-Forbbiden2411
+## Contraseñas
+Las contraseñas deberan tener:
+- Al menos 8 caracteres
+- Al menos una letra **mayúscula**
+- Al menos un aletra **minúscula**
+- Al menos un **número**
+- Al menos un caracter especial **! @ # $ % & _**
