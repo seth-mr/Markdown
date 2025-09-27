@@ -1,12 +1,10 @@
 ### Interacción Humano Computadora
 Disciplina de la computación que estudia la comunicación entre la computadora y el o los usuarios, se encarga del diseño, implementación y evaluación de esta comunicación y sus interfaces.
-
 **Diseño centrado en el usuario**
 - Análisis de las necesidades y contexto
 - Identificación de requisitos
 - Diseño de soluciones
 - Evaluación de soluciones
-
 **Personas:**
 - Psicología
 - Sociología
@@ -15,7 +13,6 @@ Disciplina de la computación que estudia la comunicación entre la computadora 
 **Dispositivos**
 **Tareas que se realizan**
 **Usabilidad**
-
 Un sistema debe ser **compatible** tanto con el usuario como con la tarea.
 ### Medios de comunicación
 **Dispositivos de entrada -> con la computadora**
@@ -46,7 +43,6 @@ Comunicación a través de los tres canales:
 - Interfaces naturales de usuario
 	- Tablets
 	- Touch
-	- 
 La interacción se da a través de la interfaz de usuario
 
 Los canales de entrada del humano están sus sentidos:

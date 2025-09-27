@@ -1,4 +1,4 @@
-- A medida que crea instancias de conceptos de diseño, normalmente creará bceto. Estos son la documentación inicial para la arquitectura
+- A medida que crea instancias de conceptos de diseño, normalmente creará un boceto. Estos son la documentación inicial para la arquitectura
 	- Capturarlos y desarrollarlos más tarde
 	- Si usas notación informal, ser consistente
 	- Desarrollar la disciplina de anotar las responsabilidades que asigna a los elementos y las decisiones de diseño relevantes que se han tomado

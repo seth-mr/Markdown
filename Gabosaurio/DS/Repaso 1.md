@@ -55,3 +55,5 @@ Establece métrica realista (MTTR), umbral de tiempo, contexto (falla en Auth) y
 ## Quality Attribute Scenario (QAS)
 - **Fuente** (quien): actor/sistema que origina el estímulo
 - **Estímulo** (qué): evento/solicitud/falla/ataque
+## Cosas a tener en cuenta
+- La táctica debe estar representada en la descripción del caso de uso

@@ -7,7 +7,7 @@
 - [ ] Modificability (Modificabilidad)
 - [ ] Performance (Rendimiento)
 - [ ] Safety (Protección)
-- [ ] Security (Seguridad)
+- [x] Security (Seguridad)
 - [ ] Testability (Facilidad de Prueba)
 - [x] Usability (Usabilidad)
 ## Microsoft Application Architecture Guide
