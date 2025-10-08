@@ -1,3 +1,4 @@
+
 Las leyes del pensamiento, también conocidas como principios lógicos supremos, son reglas fundamentales que rigen el proceso de razonamiento y permiten un pensamiento válido. Tradicionalmente, se reconocen tres leyes principales: el principio de identidad, el principio de no contradicción, y el principio del tercero excluido. Estas leyes, evidentes por sí mismas, son la base de la lógica y se aplican en diversas disciplinas, incluyendo el derecho. 
 
 Las tres leyes tradicionales son:
