@@ -13,11 +13,11 @@
 - Las personas pueden señalar en el diagrama al discutir un proceso o flujo en lugar de usar palabras para describir lo que quieren decir
 ## Proceso
 - También llamado burbuja, función o transformación
-- Represnta la parte del sistem aque transfforma las entradas en salidas
+- Represnta la parte del sistem aque transforma las entradas en salidas
 - Se nombra o describe con una sola palabra, frase u oración sencilla
 	- CALCULAR IMPUESTOS DE VENTAS
 ## Flujo
-- Se representa gráficamente con un alfecha que entra o sale de un proceso
+- Se representa gráficamente con una flecha que entra o sale de un proceso
 - Se usa para describir el movimiento de bloques o paquetes de información de una parte del sistema a otra
 - Para muchos sistemas complejos de l mundo real los flujos corresponden a materiales y datos
 - **Muestran dirección**

@@ -60,3 +60,5 @@ Los errores tienden a ocurrir cerca de los valores extremos de un avariable de e
 	- Porcentaje de descuento  0.01 > descuento <= 50
 ## Problemas con las pruebas de valores límite
 - Entre más complejo es el algoritmo más combinaciones hay y todo explota
+- Hay redundancia de casos
+- Lagunas de cobertura
