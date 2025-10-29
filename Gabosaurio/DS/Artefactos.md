@@ -45,7 +45,7 @@
 - Las operaciones de componentes realizan su trabajo invocando operaciones de interfaces de negocio
 ## Modelo de tipos de negocio
 - El modelo de tipo de negocio (Business Type Model) contiene información específica que el sistema necesita
-- Los tipo s de negocio pueden ser físicos (por ej, un producto) o no físicos (ej. un pedido)
+- Los tipos de negocio pueden ser físicos (por ej, un producto) o no físicos (ej. un pedido)
 ## Identificación de interfaces de negocio
 - Son abstracciones de la infomración que debe administrar el sistema
 - Proceso:
@@ -121,6 +121,8 @@
 - El componente es la unidad de implementación y reemplazo en un sistema de componentes
 - Son lo que construimos o compramos, son las unidades de realización
 - Debemos elegir componentes de manera que tenga sentido construir o comprarar esa unidad de funcionalidad
+- Se puede actualizar un sistema reemplazando componentes de forma selectiva
+- Cuidar de especificar componentes de tal manera que las unidades de recambio sean las que queremos y las que podemos gestionar
 - Hay una serie de posibles aportaciones a esta actividad en esta etapa:
 	- Las interfaces en el modelo de interfaz
 	- Especificaciones de componentes existentes que pretendemos reutilizar

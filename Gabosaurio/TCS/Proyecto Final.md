@@ -8,7 +8,7 @@
 	- Uso de framework de comunicación en red
 		- WCF (Windows Communication Framework)
 	- Uso de framework de UI
-		- WPF, Avalonia
+		- WPF
 	- Prácticas seguras de escritura de código
 		-  Proyecto inseguro no se recibe
 		- Todo código que se escriba debe ser seguro y probado

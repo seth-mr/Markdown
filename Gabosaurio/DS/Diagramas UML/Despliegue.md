@@ -16,7 +16,7 @@ Clasificador rectangular con el estereotipo para artefacto (puede no llevar el e
 ### Manifestación de un componente como artefacto
 - Esta relación se muestra en un diagrama por separado para no tener un diagrama desordenado
 ## Nodo
-- **Definición -** Un recurso computacional disponible durante tiepo de ejecución en el que los artefactos son desplegados para su ejecución
+- **Definición -** Un recurso computacional disponible durante tiempo de ejecución en el que los artefactos son desplegados para su ejecución
 - **Ejemplos**
 	- Hardware: Cliente de escritorio, impresora, servidor de procesamiento, servidor de base de datos, otros recursos
 	- Entornos de ejecución: SO, Contenedor, servidor web, servidor de aplicaciones

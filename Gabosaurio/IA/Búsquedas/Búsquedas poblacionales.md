@@ -27,4 +27,4 @@ Problema: maximizar f(x) = x^2 para x E {0,1,2,3,4,5}
 ## Operadores genéticos
 - **Selección:** elige padres (ej. ruleta, torneo)
 - **Cruce:** mezcla cromosomas de dos padres
-- **Mutación:** cambia un gen aleatoriamente
+- **Mutación:** cambia un gen aleatoriamente (opcional)

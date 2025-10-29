@@ -10,7 +10,7 @@ El algoritmo se prepara con las herramientas necesarias para medir el costo tota
 ```
 FUNCION A_estrella(Grafo, Inicio, Meta)
 	Crear Cola de Prioridad vacia
-	Crear Conjutno Visitados
+	Crear Conjunto Visitados
 	Inicializar Costos_g (costo desde el inicio)
 ```
 - **Cola de prioridad:** Los nodos se ordenan por su valor f(n) = g(n) + h(n). Los de menor valor son los más prometedores
@@ -58,4 +58,5 @@ FUNCION A_estrella(Grafo, Inicio, Meta)
 					Apilar(Vecino, Cola de Prioridad, f(Vecino))
 				FIN_SI
 			FIN_SI
-		FIN_PARA		
+		FIN_PARA
+```

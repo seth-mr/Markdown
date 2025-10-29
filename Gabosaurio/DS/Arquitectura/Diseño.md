@@ -94,7 +94,7 @@ El diseño de Software se realiza en tres etapas
 
 - Testability -> Facilidad de prueba
 
-- Qué tan fácil es diseñar y ejecutar pruebas para verificar el funcionamiento del sistema
+	- Qué tan fácil es diseñar y ejecutar pruebas para verificar el funcionamiento del sistema
 
 ## Arquitectura y Mantenimiento
 

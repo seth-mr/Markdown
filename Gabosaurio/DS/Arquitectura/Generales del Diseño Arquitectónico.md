@@ -91,4 +91,3 @@ El objetivo es reducir riesgos y aumentar la calidad con soluciones reutilizable
 - Una táctica común para detectar fallos es Ping/Echo
 	- **Seguridad:** ¿Cómo se previene un ataque de ping flood?
 	- **Desempeño:** ¿Cómo nos aseguramos que la carga en el desempeño del Ping/Echo es pequeño?
-	- 
